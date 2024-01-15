@@ -2,7 +2,7 @@
 # Cell Tower App
 
 ## Introduction
-The Cell Tower App is a Python-based application designed to provide insights into cell tower distributions and densities in the UK. It utilizes data from two CSV files to analyze and visualize cell tower information.
+The Cell Tower Dashboard is a Python-based application designed to provide insights into cell tower distributions and densities in the UK. It utilizes data from two CSV files to analyze and visualize cell tower information.
 
 ## Prerequisites
 Before installing and running the app, ensure you have the following:
